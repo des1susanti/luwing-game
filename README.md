@@ -1,6 +1,6 @@
 # Luwing Game 🐛
 
-Luwing Game adalah permainan edukasi berbasis Python dengan sentuhan estetika lokal yang mengadaptasi mekanik pergerakan *snake/worm* dengan sentuhan estetika lokal. Proyek ini dikembangkan menggunakan **Pygame** untuk mengeksplorasi konsep dasar *game loop*, deteksi tabrakan (*collision detection*), dan manajemen state permainan.
+Luwing Game adalah permainan edukasi berbasis Python yang mengadaptasi mekanik pergerakan *snake/worm* dengan sentuhan estetika lokal. Proyek ini dikembangkan menggunakan **Pygame** untuk mengeksplorasi konsep dasar *game loop*, deteksi tabrakan (*collision detection*), dan manajemen state permainan.
 
 ## 🚀 Fitur Utama
 * **Mekanik Luwing:** Karakter ulat dengan pergerakan organik yang mengikuti kursor.
